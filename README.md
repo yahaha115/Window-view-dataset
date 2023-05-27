@@ -22,7 +22,7 @@ We performed a series of processes on the raw data and manually annotated it int
 
 ## Example
 
-![Example](https://github.com/81df755c-19b1-4072-9c18-590d8bdd7f06)
+![Example](https://github.com/yahaha115/Window-view-dataset/blob/main/Example.png?raw=true)
 
 ## Access
 
