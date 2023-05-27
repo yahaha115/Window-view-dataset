@@ -8,18 +8,17 @@ Window Views is an open, manually annotated dataset of window views in a high de
 
 We performed a series of processes on the raw data and manually annotated it into 11 categories:
 
-Sky
-High-rise buildings
-Low-rise buildings
-Grasses
-Hard ground
-Trees
-Water
-Railings
-Roads
-Barren land
-Building interior
-
+1. Sky
+2. High-rise buildings
+3. Low-rise buildings
+4. Grasses
+5. Hard ground
+6. Trees
+7. Water
+8. Railings
+9. Roads
+10. Barren land
+11. Building interior
 
 
 ## Access
