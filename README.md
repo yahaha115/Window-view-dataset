@@ -20,6 +20,9 @@ We performed a series of processes on the raw data and manually annotated it int
 10. Barren land
 11. Building interior
 
+## Example
+
+https://github.com/yahaha115/Window-view-dataset/blob/main/Example.png?raw=true
 
 ## Access
 
